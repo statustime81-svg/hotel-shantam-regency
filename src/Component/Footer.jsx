@@ -16,7 +16,7 @@ const exploreLinks = [
   ["Contact", "#contact"],
 ];
 
-const NEXOVA_LOGO = "/images/nexova-logo.png";
+const NEXOVA_LOGO = "src/assets/image/nexova-logo.png";
 const NEXOVA_URL = "https://www.nexovax.in/";
 
 function NexovaCredit() {
